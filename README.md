@@ -13,4 +13,5 @@ $${\color{lime}• -> Normal \space ability}$$
 $${\color{lightblue}• -> Passive \space ability}$$
 $${\color{green}○ -> Quest \space ability}$$
 
+## Wiki
 https://github.com/KogaIJ/MinekeepCore/wiki
