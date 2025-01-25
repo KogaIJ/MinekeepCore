@@ -12,3 +12,5 @@ If you **die** while your core is overused you will lose **a part of your max en
 $${\color{lime}• -> Normal \space ability}$$
 $${\color{lightblue}• -> Passive \space ability}$$
 $${\color{green}○ -> Quest \space ability}$$
+
+https://github.com/KogaIJ/MinekeepCore/wiki
