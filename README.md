@@ -9,4 +9,4 @@ Regenerate energy to increase your **energy per second**.
 
 If you **die** while your core is overused you will lose **a part of your max energy**!
 
-$${\color{green}*}$$ -> Normal ability
+$${\color{green}• -> Normal ability}$$
