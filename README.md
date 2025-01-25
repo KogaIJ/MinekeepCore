@@ -9,4 +9,6 @@ Regenerate energy to increase your **energy per second**.
 
 If you **die** while your core is overused you will lose **a part of your max energy**!
 
-$${\color{green}• -> Normal \space ability}$$
+$${\color{lime}• -> Normal \space ability}$$
+$${\color{lightblue}• -> Passive \space ability}$$
+$${\color{green}○ -> Quest \space ability}$$
